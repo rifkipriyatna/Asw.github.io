@@ -23,7 +23,7 @@
 
 .container{
 				width:200px;
-				height:300px;
+				height:375px;
 				background-color:gainsboro;
 				border-radius:20px;
 				margin:auto;
