@@ -1,5 +1,5 @@
-# Asw.github.io
-#<!DOCTYPE html>
+
+
 <html lang="in">
 <head>
 				<title>Data Diri</title>
